@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "pdfbox-app-3.0.0-alpha3.jar",
+        "External JARs/pdfbox-app-3.0.0-alpha3.jar",
+        "External JARs/opencsv-5.7.1.jar"
+    ]
+}
